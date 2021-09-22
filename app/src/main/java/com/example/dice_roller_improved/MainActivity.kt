@@ -37,6 +37,7 @@ class MainActivity : AppCompatActivity() {
             if(resultInt < 6){
                 resultInt++
                 resultText.text = resultInt.toString()
+                
             }
 
         }
